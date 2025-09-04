@@ -28,6 +28,7 @@ This repository is a digital space where I document my backend development journ
 | 2           | Features, HLD, LLD & Planning | "Learn the importance of requirements gathering, feature definition, and planning before coding. Explore High-Level Design (HLD) and Low-Level Design (LLD) concepts." **Akshay Saini** | [📄 View Notes](./Episode%2002%20Features%2C%20HLD%2C%20LLD%20%26%20Planning/Readme.md) |
 | 3           | Creating our Express Server 🚀 | "Every great backend starts with a simple server." **Akshay Saini** | [📄 View Notes](./Episode%2003%20Creating%20our%20Express%20Server/Readme.md) |
 | 4           | Routing and Request Handlers | "The right route leads to the right results." **Akshay Saini** | [📄 View Notes](./Episode%2004%20Routing%20and%20Request%20Handlers/Readme.md) |
+| 5           | Middlewares & Route Handlers 🛡️ | "Middleware is the heart of Express. It decides how your requests flow." **Akshay Saini** | [📄 View Notes](./Episode%2005%20Middlewares%20%26%20Route%20Handlers/Readme.md) |
 ---
 
 ## 📚 Resources
