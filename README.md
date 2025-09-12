@@ -32,6 +32,7 @@ This repository is a digital space where I document my backend development journ
 | 6           | Database, Schema & Models 🗄️ | "A solid database foundation powers every great app." **Akshay Saini** | [📄 View Notes](./Episode%2006%20Database%2C%20Schema%20%26%20Models/Readme.md) |
 | 7          | Diving Into the API World 🌐 | "APIs are the bridges that connect different software systems." **Akshay Saini** | [📄 View Notes](./Episode%2007%20Diving%20Into%20The%20APIs/Readme.md) |
 | 8          | Data Sanitization & Schema Validation 🧼 | "Clean data is the foundation of secure and reliable applications." **Akshay Saini** | [📄 View Notes](./Episode%2008%20Data%20Sanitization%20%26%20Schema%20Validation/Readme.md) |
+| 9          | Encrypting Passwords 🔒 | "Passwords are secrets—protect them like treasure." **Akshay Saini** | [📄 View Notes](./Episode%2009%20Encrypting%20Passwords/Readme.md) |
 ---
 
 ## 📚 Resources
